@@ -1,6 +1,8 @@
 # HolidayCalculate
 粗略计算法定节假日时间
 
+关于中国农历计算，采用：https://github.com/heqiao2010/LunarCalendar
+
 ### 调用
 
 ```
